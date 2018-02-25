@@ -9,7 +9,7 @@ Summary:
 
 This post is available as an **IPython Notebook** [here](/notebooks/Python_3_OOP_Part_1__Objects_and_types.ipynb)
 
-## About this series
+## Tesla cars are cool
 
 Object-oriented programming (OOP) has been the leading programming paradigm for several decades now, starting from the initial attempts back in the 60s to some of the most important languages used nowadays. Being a set of programming concepts and design methodologies, OOP can never be said to be "correctly" or "fully" implemented by a language: indeed there are as many implementations as languages.
 
